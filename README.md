@@ -1,1 +1,2 @@
-# TMS_Lesson_6_HW
+# TMS_Lesson_5_HW
+Arrays, Conditions, Cycles
